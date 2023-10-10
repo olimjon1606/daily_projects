@@ -1,6 +1,7 @@
 body{
     background-color: #E3E7E8;
     font-family: system-ui;
+    margin-bottom:500px ;
 }
 .container{
     width: 1000px;
@@ -46,8 +47,8 @@ header .shopping span{
     letter-spacing: 1px;
 }
 .list .item img{
-    width: 90%;
-    height: 430px;
+    width: 100%;
+    height: 280px;
     object-fit: cover;
 }
 .list .item .title{
